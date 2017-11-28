@@ -1,0 +1,56 @@
+
+RFID Book LInks
+
+1) img1.jpg
+RFID Product Catalog
+http://rfid.atlasrfidstore.com/hubfs/Content/atlasRFIDstore%20Catalog.pdf
+
+
+2) img2.png
+Beginners Guide to RFID systems
+http://rfid.atlasrfidstore.com/hs-fs/hub/300870/file-252314647-pdf/Content/basics-of-an-rfid-system-atlasrfidstore.pdf
+
+
+3) img3.jpg
+Guide to RFID Types and How They Are Used
+http://rfid.atlasrfidstore.com/hubfs/Content/Types_of_RFID_and_How_They_Are_Used.pdf
+
+
+4) img4.png
+Choosing the Right RFID Tags
+http://cdn2.hubspot.net/hub/300870/file-1090176445-pdf/Content/choosing-the-right-rfid-tag.pdf
+
+
+5) img5.png
+Basic RFID Buyers Guide
+http://rfid.atlasrfidstore.com/hs-fs/hub/300870/file-359929934-pdf/Content/rfid-buyers-guide-atlas-rfid-store.pdf
+
+
+6) img6.png
+Guide to Buying RFID Tags and Equipment
+http://rfid.atlasrfidstore.com/hubfs/Content/A%20Guide%20to%20Buying%20RFID%20Tags%20and%20Equipment.pdf
+
+ 
+7) img7.png
+An Intro to RFID Readers
+http://rfid.atlasrfidstore.com/hubfs/Content/RFID_Reader_Features__Options.pdf
+
+ 
+8) img8.jpg
+Cables Connectors and Adapter Guide
+http://rfid.atlasrfidstore.com/hubfs/Content/Cables%20and%20Connectors.pdf
+
+
+Resource page changes
+
+1) deleted mouse hover icon code.
+2) added  <li class="active"><a href="Resources.html">Resources</a></li> to nav bar
+3) added resource page to nav bar on other pages
+4) added center with img code to page
+5) added center with image code to css file.
+
+
+
+
+
+https://rfid.atlasrfidstore.com/atlasrfidstore-winter-catalog
